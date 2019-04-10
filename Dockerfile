@@ -1,3 +1,3 @@
 FROM java:openjdk-8-alpine
-COPY provider.jar /
-CMD java -jar /provider.jar
+COPY provider1.jar /
+CMD java -jar /provider1.jar
